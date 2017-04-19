@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Test 4"
+baseURL = "https:\/\/test4.videos.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
