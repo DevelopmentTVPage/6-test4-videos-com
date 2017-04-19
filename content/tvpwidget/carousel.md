@@ -2,6 +2,6 @@
     "type": "carousel",
     "title": "Carousel",
     "name": "carousel",
-    "channelId": "",
+    "channelId": "85322389",
     "layout": "bootstrap"
 }
